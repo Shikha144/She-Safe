@@ -1,6 +1,6 @@
-# 🛡️ SheSafe – Smart Safety Companion for Women
+# 🛡️ She-Safe – Smart Safety Companion for Women
 
-SheSafe is a mobile-first safety app designed to support women in high-risk or unsafe environments. The platform enables users to trigger emergency alerts, share live locations, and discreetly notify trusted contacts — all with a single gesture or voice command.
+She-Safe is a mobile-first safety app designed to support women in high-risk or unsafe environments. The platform enables users to trigger emergency alerts, share live locations, and discreetly notify trusted contacts — all with a single gesture or voice command.
 
 This GitHub repository includes the front-end design and planned features for the SheSafe platform. It is a work in progress intended to demonstrate the core concept and support my research proposal in the domain of gender safety, tech-based interventions, and public health.
 
@@ -14,7 +14,7 @@ Women across the world — especially migrants, students, and low-income workers
 - Internet access is limited during emergencies
 - Public spaces lack smart surveillance or aid triggers
 
-SheSafe aims to build a platform that provides:
+She-Safe aims to build a platform that provides:
 
 - Silent, fast alerting
 - Automatic location + media sharing
@@ -59,7 +59,7 @@ SheSafe aims to build a platform that provides:
 
 ## 🔹 Research Alignment
 
-SheSafe aligns with research in:
+She-Safe aligns with research in:
 - Community-based safety technology
 - Refugee and women’s health research
 - AI for social impact

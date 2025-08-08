@@ -70,3 +70,6 @@ Relevant departments/labs at OSU may include:
 - College of Social Work
 - Translational Data Analytics Institute (TDAI)
 - Global Health Initiative
+
+## Live Demo  
+You can view the live prototype here: [She-Safe Prototype](https://shikha144.github.io/She-Safe/)

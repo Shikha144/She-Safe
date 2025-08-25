@@ -1,8 +1,8 @@
 # 🛡️ She-Safe – Smart Safety Companion for Women
 
-She-Safe is a mobile-first safety app designed to support migrants women or dependents on restrictive visas (e.g., F-2, H4) who face challenges such as domestic violence, joblessness, healthcare denial or  in high-risk or unsafe environments. The platform enables users to trigger emergency alerts, share live locations, and discreetly notify trusted contacts — all with a single gesture or voice command.
+She-Safe is a mobile-first safety app designed to support migrants women or dependents on restrictive visas (e.g., F-2, H4) who face challenges such as domestic violence, joblessness, High stress, anxiety, and mental health vulnerabilities, healthcare denial or in high-risk or unsafe environments. The platform enables users to trigger emergency alerts, share live locations, and discreetly notify trusted contacts — all with a single gesture or voice command.
 
-This GitHub repository includes the front-end design and planned features for the SheSafe platform. It is a work in progress intended to demonstrate the core concept and support my research proposal in the domain of gender safety, tech-based interventions, and public health.
+This GitHub repository includes the front-end design and planned features for the SheSafe platform. It is a work in progress intended to demonstrate the core concept and support my research proposal in the domain of gender safety, tech-based interventions,public health & psychosocial well-being.
 
 ---
 
@@ -64,12 +64,7 @@ She-Safe aligns with research in:
 - Refugee and women’s health research
 - AI for social impact
 - Digital interventions in public health & emergency response
-
-Relevant departments/labs at OSU may include:
-- College of Public Health
-- College of Social Work
-- Translational Data Analytics Institute (TDAI)
-- Global Health Initiative
+- Mental Health & Stress research
 
 ## Live Demo  
 You can view the live prototype here: [She-Safe Prototype](https://shikha144.github.io/She-Safe/)

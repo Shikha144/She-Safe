@@ -32,6 +32,7 @@ She-Safe aims to build a platform that provides:
 - 🔒 Privacy-First Data Handling
 - 🚨 Integration with National Helplines and Police APIs
 - 📶 Works in Low-Connectivity Areas (via SMS fallback)
+- Stress & Mood Self-Assessment
 
 ---
 
